@@ -30,7 +30,3 @@ To reset the game at any time, click the "Reset" button.
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, feature requests, or find any issues, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
