@@ -8,7 +8,6 @@ This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
